@@ -1,6 +1,3 @@
-# netflix-strategic-analysis
-Strategic analysis of Netflix covering its market, competitive environment, resources and business model.
-
 # Netflix Strategic Analysis
 
 Business strategy project analysing **Netflix, its competitive environment and its strategic positioning in the streaming industry**.
